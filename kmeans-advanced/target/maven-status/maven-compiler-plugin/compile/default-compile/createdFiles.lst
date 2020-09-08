@@ -1,0 +1,9 @@
+tdk\tamas\egyed\kmeans\Distance.class
+tdk\tamas\egyed\kmeans\EuclideanDistance.class
+tdk\tamas\egyed\kmeans\QuantumDistance.class
+tdk\tamas\egyed\kmeans\Centroid.class
+tdk\tamas\egyed\Main.class
+tdk\tamas\egyed\kmeans\KMeans.class
+tdk\tamas\egyed\io\ReadWrite.class
+tdk\tamas\egyed\kmeans\Errors.class
+tdk\tamas\egyed\kmeans\Record.class

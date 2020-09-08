@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="akka-actor_2.11-2.3.11 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/akka-actor_2.11-2.3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/asm-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-text-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/config-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/kryo-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/minlog-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/objenesis-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/opencsv-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/reflectasm-1.07-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/scala-parser-combinators_2.11-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

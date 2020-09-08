@@ -1,0 +1,51 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "l0".(‰‡Ú›8…ùÑÇÑ.
+h	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(Ëäáİúÿÿÿÿ8…ùÑÇÑ.
+n	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¤¦½8…ùÑÇÑ.
+S
+java:S1854B"6Remove this useless assignment to local variable "l1".(öï¦8…ùÑÇÑ.
+D
+java:S1481B"'Remove this unused "l1" local variable.(öï¦8…ùÑÇÑ.
+a	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(£¢¾C8…ùÑÇÑ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÌ¸‚8úùĞÇÑ.
+Y	java:S125£"<This block of commented-out lines of code should be removed.( ·µ³8…ùÑÇÑ.
+N
+java:S1481û"+Remove this unused "answer" local variable.(¯§Ã¡ÿÿÿÿÿ8…ùÑÇÑ.
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(³ôÎ üÿÿÿÿ8…ùÑÇÑ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŞ£İ8úùĞÇÑ.
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•Š¬8úùĞÇÑ.
+f
+java:S1192""IDefine a constant instead of duplicating this literal ", idx = " 3 times.( ‘Äª8…ùÑÇÑ.
+V
+java:S1854›"8Remove this useless assignment to local variable "size".(ÓÛâ8…ùÑÇÑ.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(–±¼Œşÿÿÿÿ8…ùÑÇÑ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(£§¼•ùÿÿÿÿ8…ùÑÇÑ.
+W
+java:S1854¸"9Remove this useless assignment to local variable "p0idx".(â÷õÁ8úùĞÇÑ.
+=
+java:S1659ü"Declare "k" on a separate line.(İ–½8…ùÑÇÑ.
+n	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¢éÏ8…ùÑÇÑ.
+s	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¦Ìƒıÿÿÿÿ8…ùÑÇÑ.
+u
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¤äûİûÿÿÿÿ8…ùÑÇÑ.
+V
+java:S1854š"8Remove this useless assignment to local variable "high".( ¹å8…ùÑÇÑ.
+U
+java:S1854—"7Remove this useless assignment to local variable "low".(¸üå‘8…ùÑÇÑ.
+o
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(¾šà8…ùÑÇÑ.
+D
+java:S1481"'Remove this unused "l0" local variable.(‰‡Ú›8…ùÑÇÑ.
+h	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(³ôÎ üÿÿÿÿ8…ùÑÇÑ.
+]
+java:S1854»":Remove this useless assignment to local variable "sThird".(Éäë—øÿÿÿÿ8…ùÑÇÑ.
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¢ØåÑøÿÿÿÿ8…ùÑÇÑ.
+|
+java:S1488ô"^Immediately return this expression instead of assigning it to the temporary variable "period".(äÙ¨¨8…ùÑÇÑ.
+^	java:S125±"<This block of commented-out lines of code should be removed.(ìÛÔŠùÿÿÿÿ8…ùÑÇÑ.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(Á¨8…ùÑÇÑ.
+^
+java:S1854°";Remove this useless assignment to local variable "sSecond".(×ş·úÿÿÿÿ8…ùÑÇÑ.
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(–®ŸË8…ùÑÇÑ.

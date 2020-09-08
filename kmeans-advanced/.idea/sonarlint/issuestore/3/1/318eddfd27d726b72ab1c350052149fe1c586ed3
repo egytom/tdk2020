@@ -1,0 +1,17 @@
+
+X	java:S125J"<This block of commented-out lines of code should be removed.(ç¦§ß8ö·ÃÇÑ.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(åÙ­Èüÿÿÿÿ8“§»ÇÑ.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(Ñã‡Î8ö·ÃÇÑ.
+X
+java:S1854q";Remove this useless assignment to local variable "outcome".(–¨å÷8ö·ÃÇÑ.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8ö·ÃÇÑ.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(Åá—•şÿÿÿÿ8“§»ÇÑ.
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(ƒ©ƒ€8ö·ÃÇÑ.
+I
+java:S1481q",Remove this unused "outcome" local variable.(–¨å÷8ö·ÃÇÑ.
+y
+java:S2177E"WRename this method; there is a "private" method in the parent class with the same name.(ÿíÕúÿÿÿÿ8ö·ÃÇÑ.
+t
+java:S2177("WRename this method; there is a "private" method in the parent class with the same name.(„–ÒÆ8‹À¾ÇÑ.
+J
+java:S4274"(Replace this assert with a proper check.(•ˆ¨’üÿÿÿÿ8“§»ÇÑ.

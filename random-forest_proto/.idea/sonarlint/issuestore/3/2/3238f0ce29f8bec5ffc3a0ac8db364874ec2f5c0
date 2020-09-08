@@ -1,0 +1,9 @@
+
+rsquid:UselessImportCheck"BRemove this unused import 'jsat.classifiers.evaluation.Precision'.(ÊÉĞøÿÿÿÿ8˜Æ£‘.
+esquid:S00112I"FDefine and throw a dedicated exception instead of using a generic one.(è°ÙÁ8… ‘.
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.( à°ûüÿÿÿÿ8ëÂë‘.
+usquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ£¦ÿÿÿÿÿ8ÀŸ£‘.
+jsquid:S00112d"FDefine and throw a dedicated exception instead of using a generic one.(­˜Çïûÿÿÿÿ8ù£õ¢‘.
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ğ¦Ç¯8šñ©‘.

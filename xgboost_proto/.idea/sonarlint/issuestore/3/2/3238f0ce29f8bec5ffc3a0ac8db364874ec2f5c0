@@ -1,0 +1,20 @@
+
+vsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‘ŞŸüÿÿÿÿ8Çêğ˜’.
+esquid:S00112a"FDefine and throw a dedicated exception instead of using a generic one.(ÒÇÄ“8ú¯òã‘.
+fsquid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(ÿıÔ¨8Œ‡Òä‘.
+esquid:S00112¢"FDefine and throw a dedicated exception instead of using a generic one.(äŠÃQ8Çêğ˜’.
+ysquid:S3008"VRename this field "MIN_ELEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğãŠÂúÿÿÿÿ8‰— ™’.
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ä”‚ê8 ½ö™’.
+W
+squid:S106°"9Replace this use of System.out or System.err by a logger.(‘ØÀ§8Çêğ˜’.
+tsquid:S3008"VRename this field "MAX_ELEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬âÊà8·á—™’.
+ksquid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(­˜Çïûÿÿÿÿ8Çêğ˜’.
+tsquid:S3008"QRename this field "RANDOM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ì÷¯şÿÿÿÿ8¾ó™™’.
+esquid:S00112r"FDefine and throw a dedicated exception instead of using a generic one.(³ä¥§8ú¯òã‘.
+W
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Òåó8ƒòï˜’.
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(é†ı±ùÿÿÿÿ8çíø™’.
+esquid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(éÁœ‘8Œ‡Òä‘.
+vsquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕèŸıÿÿÿÿ8Çêğ˜’.

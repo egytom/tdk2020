@@ -1,0 +1,9 @@
+
+g
+java:S3027>"JPut single-quotes around '_' to use the faster "lastIndexOf(char)" method.(èõ8¼ÒÆÑ.
+c	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(³ä¥§8ÒÄÆÑ.
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(­˜Çïûÿÿÿÿ8”†™ÆÑ.
+h	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(«Ğ¯¬ıÿÿÿÿ8ÒÄÆÑ.
+u
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(é†âÿÿÿÿÿ8ÒÄÆÑ.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(åÏúÏÿÿÿÿÿ8¥¨›íÆ.

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a6f765a-25c9-4e04-8c3c-fc2fa324b4e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_github_oshi_oshi_core_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_cloudlink_client_4_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_core_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_plugin_device_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_plugin_in_app_billing_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_plugin_push_notifications_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_plugin_runtime_args_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_plugin_storage_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_charm_down_plugin_storage_desktop_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_connect_1_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_gluonhq_strange_0_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_google_flatbuffers_flatbuffers_java_1_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__com_jakewharton_byteunits_byteunits_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__net_ericaro_neoitertools_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__net_java_dev_jna_jna_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_bytedeco_javacpp_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_bytedeco_javacpp_windows_x86_64_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_bytedeco_openblas_0_3_9_1_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_bytedeco_openblas_windows_x86_64_0_3_9_1_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_guava_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_jackson_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_nd4j_api_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_nd4j_common_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_nd4j_native_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_nd4j_native_api_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_nd4j_native_windows_x86_64_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_nd4j_protobuf_1_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_openjfx_javafx_base_11_ea_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_ea_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_ea_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_ea_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_ea_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_openjfx_javafx_swing_win_11_ea_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/libraries/Maven__org_threeten_threetenbp_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/0/7/071300b538180f51af84a89a76529bd16362f8c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/4/d/4dbb69c3963c705da06ab7c95510b1a5a8c26ba7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/5/d/5d44004f4c188ec378684a0c684d327f5ba0c95d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/7/6/76aef719ff65d1a0a3f2404b08b00f6355401d85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/8/c/8c6f67a8f97ab2620e548251ff5eca0de5586b0f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/a/c/ac618c814d21473fa30fda5e488aee83791ed2cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/a/d/ad393a1e671ced571e49bc8e37d2b7bfe7559bd4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/b/a/ba2ceeab4e20f4b8c78cfdaea96ee42606e9f7a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/c/4/c4172d203f453b39d2f3392785a2c69901ff7f78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/d/2/d25fb7d1fc45445926d6ecce44c0226949b85e2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/d/8/d82af076c011d8e47e68ba9aa3a1154a4e1c6f23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/f/d/fd21b80fd9e564f2be86a5c7d00e6be2054199dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/quantum/CSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/quantum/RX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/quantum/RZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/quantum/U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/files/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/files/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tdk/tamas/egyed/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tdk/tamas/egyed/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/1/a/1a60a18a54a8fe5ce81781a3e63ad48aebddd2a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/2/c/2c7c7c0a089fde19006071e13a9a9fb7080073a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/3/2/3238f0ce29f8bec5ffc3a0ac8db364874ec2f5c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/7/6/76424723392634b1e41bac46786a0737e54f9831" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/7/6/76a7ac49f2bf995467e470d72f282b45dd480a69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/7/b/7b922337c9c15ecadbc03ccaefdef1b83d1a507a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/8/5/850e6285a2cad84560c53f30faea1b7a39f5ca80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/8/7/877680a0f27e74b4c9b5522e585d20bda84116f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/csv/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/csv/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_default.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_default.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_with_preprocessing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_with_preprocessing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_with_preprocessing_and_quantum_computing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_with_preprocessing_and_quantum_computing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_with_quantum_computing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/csv/kmeans_with_quantum_computing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/kmeans_proto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/kmeans_proto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/io/ReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/io/ReadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/kmeans/QuantumDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kmeans-advanced/src/main/java/tdk/tamas/egyed/kmeans/QuantumDistance.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1amGMCGPZ3rER7yawvoaE5FYjdz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdk.tamas.egyed.App" />
+      <module name="data-generator_proto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdk.tamas.egyed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a6f765a-25c9-4e04-8c3c-fc2fa324b4e6" name="Default Changelist" comment="" />
+      <created>1587333306083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587333306083</updated>
+      <workItem from="1587333310615" duration="15031000" />
+      <workItem from="1599563889467" duration="1675000" />
+      <workItem from="1599569826374" duration="1428000" />
+      <workItem from="1599673692332" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

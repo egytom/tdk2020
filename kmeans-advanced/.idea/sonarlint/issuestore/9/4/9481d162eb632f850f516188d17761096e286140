@@ -1,0 +1,24 @@
+
+]	java:S125@"<This block of commented-out lines of code should be removed.(Î•Õöşÿÿÿÿ8¥î­ÇÑ.
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(«‘ÈÒşÿÿÿÿ8¥î­ÇÑ.
+g	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(–Á³Ëûÿÿÿÿ8¥î­ÇÑ.
+]	java:S125E"<This block of commented-out lines of code should be removed.(İ²ÖËùÿÿÿÿ8¥î­ÇÑ.
+`
+java:S2583s"CChange this condition so that it does not always evaluate to "true"(ßƒõ8¥î­ÇÑ.
+]	java:S125C"<This block of commented-out lines of code should be removed.(Î•Õöşÿÿÿÿ8¥î­ÇÑ.
+P
+java:S1144a"3Remove this unused private "decomposeSteps" method.(È’‘¹8¥î­ÇÑ.
+X
+java:S1133”"5Do not forget to remove this deprecated code someday.(Ã¦µáıÿÿÿÿ8¥î­ÇÑ.
+Y	java:S125©"<This block of commented-out lines of code should be removed.(ç¦§ß8¥î­ÇÑ.
+P
+java:S1172µ"-Remove this unused method parameter "second".(®õú‚ûÿÿÿÿ8¥î­ÇÑ.
+K
+java:S1123”"(Add the missing @deprecated Javadoc tag.(Ã¦µáıÿÿÿÿ8¥î­ÇÑ.
+X	java:S125z"<This block of commented-out lines of code should be removed.(Ìé×¥8¥î­ÇÑ.
+Q
+java:S1874Ã".Remove this use of "tensor"; it is deprecated.(ÇèÓıÿÿÿÿ8¥î­ÇÑ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¯³•Ç8¥î­ÇÑ.
+L
+java:S1874Á".Remove this use of "tensor"; it is deprecated.(˜ëüˆ8¥î­ÇÑ.
